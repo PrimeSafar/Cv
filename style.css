@@ -1,0 +1,143 @@
+body{
+    background-color:aliceblue;
+    height: 900px;
+}
+.itemTop
+{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+
+    
+}
+.nameTop
+{
+    width: 100%;
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #cab007;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+}
+.contactInfo
+{
+    margin-top: 30px;
+    font-size: 9px;
+    color: #000000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    margin-left: 60px;
+    width: 100%;
+}
+
+.summary
+{
+    margin-top: 30px;
+    font-size: 15px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    background-color: #e1d581;
+    padding: 2px;
+    height: 15px;
+
+}
+.summaryInfo
+{
+    font-size: 10px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.skills{
+    font-size: 15px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    background-color: #e1d581;
+    padding: 2px;
+    height: 15px;
+
+
+}
+.skillsList
+{
+    font-size: 10px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.storageADMIN
+{
+    font-size: 15px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    background-color: #e1d581;
+    padding: 2px;
+    height: 15px;
+
+}
+.storageADMINInfo
+{
+    font-size: 10px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.education
+{
+    font-size: 15px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    background-color: #e1d581;
+    padding: 2px;
+    height: 15px;
+
+}
+.educationInfo
+{
+    font-size: 10px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.CONTENT{
+    font-size: 15px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    background-color: #e1d581;
+    padding: 2px;
+    margin-top: 20px; 
+    height: 15px;
+}
+.INSTA
+{
+height: 30px;
+width: 30px;
+margin-top: 20px;
+border-radius: 100%;
+background-color:aliceblue;
+border: 2px solid rgb(4, 4, 4);
+}
+.imgINSTA
+{
+    width:10px;
+    height: 10px;
+}
+
+.face{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 100%;
+    background-color:aliceblue;
+    border: 2px solid rgb(4, 4, 4);
+}
+.imgFAce
+{
+    width:10px;
+    height: 10px;
+}
