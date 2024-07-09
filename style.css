@@ -1,6 +1,6 @@
 body{
     background-color:white;
-    height: 900px;
+    height: 850px;
 }
 .itemTop
 {
@@ -14,10 +14,10 @@ body{
 {
     width: 100%;
     margin-top: 20px;
-    font-size: 22px;
+    font-size: 26px;
     font-weight: bold;
-    color: #e9bf07;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align:left;
 }
 .contactInfo
@@ -33,7 +33,7 @@ body{
 
 .summary
 {
-    margin-top: 60px;
+    margin-top: 100px;
     font-size: 15px;
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -115,22 +115,22 @@ body{
 }
 .INSTA
 {
-height: 30px;
-width: 30px;
-margin-top: 20px;
-border-radius: 100%;
-background-color:aliceblue;
-border: 2px solid rgb(4, 4, 4);
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 100%;
+    background-color:aliceblue;
+    border: 2px solid rgb(4, 4, 4);
 }
 .imgINSTA
 {
-    width:10px;
-    height: 10px;
+    width:20px;
+    height: 20px;
 }
 
 .face{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     margin-top: 20px;
     border-radius: 100%;
     background-color:aliceblue;
@@ -138,6 +138,6 @@ border: 2px solid rgb(4, 4, 4);
 }
 .imgFAce
 {
-    width:10px;
-    height: 10px;
+    width:20px;
+    height: 20px;
 }
